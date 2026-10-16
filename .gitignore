@@ -1,0 +1,9 @@
+.env
+github-stats
+github-stats.exe
+*.out
+coverage.out
+.DS_Store
+.idea/
+.vscode/
+.gocache/
